@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi,I'm Shki Makoto  
+I'm a Chinese high school student.
+🌱 I’m currently learning Unity and I'm trying to remake the game "SoulKnight"  
+Actually,I'm learning AE at the same time.
 <!--
 **ShikiMakoto/ShikiMakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
